@@ -18,7 +18,7 @@
       "packages:eslint",
       "local>teppeis/renovate-config:semanticPrefixFixDepsPeerChoreOthers"
     ],
-    "schedule": ["after 9pm", "before 9am"],
+    "schedule": ["after 4am", "before 6am"],
     "rangeStrategy": "bump",
     "postUpdateOptions": ["npmDedupe"],
     "lockFileMaintenance": {
